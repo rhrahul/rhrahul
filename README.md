@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently practicing **tensorflow, pytorch, scikit**
 
-- 👨‍💻 All of my projects are available at [https://www.rhrahul.com/](https://www.rhrahul.com/)
+- 👨‍💻 All of my projects are available at [https://www.rhrahul.com/#projects](https://www.rhrahul.com/#projects)
 
 - 💬 Ask me about **react, nextjs, sass, react native, nodejs, python, tensorflow**
 
