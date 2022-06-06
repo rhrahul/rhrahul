@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.rhrahul.com/](https://www.rhrahul.com/)
 
-- 💬 Ask me about **react, nextjs, sass, react native, nodejs**
+- 💬 Ask me about **react, nextjs, sass, react native, nodejs, python, tensorflow**
 
 - 📫 How to reach me **pipaliyarahul96@gmail.com**
 
